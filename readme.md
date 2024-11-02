@@ -20,5 +20,5 @@ torch-geometric=2.0.4
 Public datasets reddit and toloker used for graph anomaly detection are available for evaluation. 
 ### Usage
 ```
-python benchamrk.py --dataset reddit/tolokers
+python benchamrk.py --datasets reddit/tolokers
 ```
