@@ -28,7 +28,7 @@ args = parser.parse_args()
 
 columns = ['name']
 new_row = {}
-datasets = ['questions']
+datasets = ['reddit','toloker']
 models = model_detector_dict.keys()
 
 
