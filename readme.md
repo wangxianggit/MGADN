@@ -17,8 +17,8 @@ torch-geometric=2.0.4
 
 ### Dataset 
 
-Public datasets Elliptic, Yelp and Weibo used for graph anomaly detection are available for evaluation. `Elliptic` was first proposed in [this paper](https://arxiv.org/pdf/2008.08692.pdf), of which goal is to detect money-laundering users in bitcoin network.
+Public datasets reddit and toloker used for graph anomaly detection are available for evaluation. 
 ### Usage
 ```
-python benchamrk.py --dataset reddit/yelp/elliptic
+python benchamrk.py --dataset reddit/tolokers
 ```
