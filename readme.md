@@ -17,7 +17,7 @@ torch-geometric=2.0.4
 
 ### Dataset 
 
-Public datasets reddit and toloker used for graph anomaly detection are available for evaluation. 
+Public datasets weibo and toloker used for graph anomaly detection are available for evaluation. 
 ### Usage
 ```
 python benchamrk.py --datasets 0/1
