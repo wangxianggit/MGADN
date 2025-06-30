@@ -1,6 +1,6 @@
 ## MGADN
 
-This project implements the paper "Heterophily Learning and Global-local Dependencies Enhanced Multi-view Representation Learning for Graph Anomaly Detection" submitted to Knowledge-Based Systems.
+This project implements the paper "Heterophily Learning and Global-local Dependencies Enhanced Multi-view Representation Learning for Graph Anomaly Detection" published in journal Knowledge-Based Systems.
 
 
 ## Model Usage
